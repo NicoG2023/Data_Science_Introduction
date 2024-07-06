@@ -26,6 +26,7 @@ jupyterlab = "^4.2.2"
 wordcloud = "^1.8.2"
 geopandas = "^1.0.1"
 cartopy = "^0.23.0"
+xlrd = "^2.0.1"
 
 [build-system]
 requires = ["poetry-core"]
