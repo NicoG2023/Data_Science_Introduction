@@ -1,0 +1,6 @@
+en general, 70% de los datos pa q aprenda
+y el 30% restante para realizar pruebas o validaciones
+hyperparameter -> variables de configuracion del algoritmo (K en el algoritmo k-nearest neighbors)
+hyperparameter optimization -> ajustar mas el algoritmo a los datos que se estan utilizando (con el 10% de los datos)
+	
+	
