@@ -6,7 +6,7 @@ authors = ["NicoG2023 <nguevarah@udistrital.edu.co>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.10,<3.12"
 numpy = "==1.26.4"
 pandas = "^2.2.2"
 pandera = "^0.19.3"
@@ -28,6 +28,7 @@ cartopy = "^0.23.0"
 xlrd = "^2.0.1"
 matplotlib = "^3.9.1"
 ipykernel = "^6.29.5"
+keras = "^3.4.1"
 
 [build-system]
 requires = ["poetry-core"]
